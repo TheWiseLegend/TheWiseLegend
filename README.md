@@ -15,7 +15,6 @@ Currently working on government applications at SICPA, maintaining CI/CD pipelin
 ## Live Projects<br>
 🎨 **[T-Shirt Customizer](https://tshirtcustomizer.amribrahim.tech)** - Complete CI/CD pipeline with Docker-in-Docker<br>
 🏫 **Spring School** *(In progress)* - Full-stack platform with Prometheus & Grafana monitoring<br>
-📱 **FieldMate** - Mobile futsal booking app on AWS<br><br>
 
 ## Currently<br>
 📚 Working on AWS Cloud Practitioner certification<br>
