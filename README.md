@@ -1,5 +1,6 @@
 # 💫 About Me:
-## Hey, I'm Amr 👋<br>**Full-Stack Developer + DevOps | Intern @ SICPA | Graduating Dec 2025**<br><br>Building production applications with end-to-end automation. I write code, containerize it, test it, and ship it.<br><br>
+## Hey, I'm Amr 
+👋<br>**Full-Stack Developer + DevOps | Intern @ SICPA | Graduating Dec 2025**<br><br>Building production applications with end-to-end automation. I write code, containerize it, test it, and ship it.<br><br>
 
 ## What I Do<br>
 **Development:** Java (Spring Boot), JavaScript (Node.js, React, React Native), SQL<br>
