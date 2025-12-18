@@ -19,7 +19,7 @@ Currently working on government applications at SICPA, maintaining CI/CD pipelin
 📚 Working on AWS Cloud Practitioner certification<br>
 💼 Open to Software Engineering & DevOps roles (Jan 2026)<br><br>
 
-**Connect:** [Portfolio](https://amribrahim.tech) • [LinkedIn](https://linkedin.com/in/amr-ibrahim-711600253) • [Email](mailto:amribrahim.dev@gmail.com)
+**Connect:** [Portfolio](https://amribrahim.tech) • [LinkedIn](https://linkedin.com/in/amr-ibrahim-711600253) • [Email](amribrahim.dev@gmail.com)
 
 
 ## 🌐 Socials:
